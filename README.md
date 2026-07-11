@@ -8,7 +8,7 @@ This repository contains my cybersecurity internship tasks completed using Pytho
 - Password Generator
 
 ### Task 2
-- (Your Task 2 description)
+- (password strength checker)
 
 ### Task 3
 - Advanced Password Generator
